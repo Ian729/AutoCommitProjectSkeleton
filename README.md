@@ -14,6 +14,6 @@ This is a project template. Meant to be forked and then develop based on the for
    You could add commands such as
    ``` {yaml}
           pip install -r requirements.txt
-          python your_own_script.py
+          python script.py
    ```
    And now for every scheduled execution, these two commands would be executed and the execution result(generated files) will be uploaded to the GitHub and saved as timely commit
